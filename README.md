@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class AliPourrahim:
@@ -70,16 +70,26 @@ class AliPourrahim:
 
 ---
 
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-trophies.vercel.app/?username=Aliipou&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7)](https://github.com/Aliipou)
+
+</div>
+
+---
+
 ## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**AgenticAI Linux Mgmt**](https://github.com/Aliipou/AgenticAIPoweredLinuxSystemManagement) | Autonomous Linux system: self-healing, perf tuning, anomaly detection | Python · LLM |
-| [**Finnish NLP 2.0**](https://github.com/Aliipou/Finnish-nlp-2.0) | Production-grade Finnish NLP: 15 cases, Potentiaali mood, 60+ word types | Python · Voikko |
-| [**Observability Platform**](https://github.com/Aliipou/observability-platform) | Distributed tracing, metrics aggregation, real-time alerting | Go · OpenTelemetry · Prometheus |
-| [**Streaming Data Pipeline**](https://github.com/Aliipou/streaming-data-pipeline) | Real-time pipeline with anomaly detection and Kafka integration | Go · Kafka · WebSocket |
-| [**Distributed Job Scheduler**](https://github.com/Aliipou/distributedJobscheduler) | Redis-backed queue, worker pools, fault-tolerant execution | Go · Redis · gRPC |
-| [**Cloud Calibration**](https://github.com/Aliipou/cloud-calibration) | Cloud-native calibration platform with Azure Service Bus | Go · Azure · PostgreSQL |
+| [**AgenticAI Linux Mgmt**](https://github.com/Aliipou/AgenticAIPoweredLinuxSystemManagement) | Autonomous Linux system: self-healing, perf tuning, anomaly detection | Python, LLM |
+| [**Finnish NLP 2.0**](https://github.com/Aliipou/Finnish-nlp-2.0) | Production-grade Finnish NLP: 15 cases, Potentiaali mood, 60+ word types | Python, Voikko |
+| [**Observability Platform**](https://github.com/Aliipou/observability-platform) | Distributed tracing, metrics aggregation, real-time alerting | Go, OpenTelemetry, Prometheus |
+| [**Streaming Data Pipeline**](https://github.com/Aliipou/streaming-data-pipeline) | Real-time pipeline with anomaly detection and Kafka integration | Go, Kafka, WebSocket |
+| [**Distributed Job Scheduler**](https://github.com/Aliipou/distributedJobscheduler) | Redis-backed queue, worker pools, fault-tolerant execution | Go, Redis, gRPC |
+| [**python-api-toolkit**](https://github.com/Aliipou/python-api-toolkit) | Production-grade FastAPI toolkit: auth, caching, rate limiting, observability | Python, FastAPI |
 
 ---
 
@@ -94,17 +104,7 @@ class AliPourrahim:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aliipou&amp;theme=tokyonight&amp;hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aliipou&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aliipou&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/Aliipou)
 
 </div>
 
@@ -114,7 +114,7 @@ class AliPourrahim:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aliipou&amp;theme=tokyo-night&amp;hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aliipou&amp;theme=tokyo-night&amp;hide_border=true)](https://github.com/Aliipou)
 
 </div>
 
