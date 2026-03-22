@@ -84,12 +84,12 @@ class AliPourrahim:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**AgenticAI Linux Mgmt**](https://github.com/Aliipou/AgenticAIPoweredLinuxSystemManagement) | Autonomous Linux system: self-healing, perf tuning, anomaly detection | Python, LLM |
-| [**Finnish NLP 2.0**](https://github.com/Aliipou/Finnish-nlp-2.0) | Production-grade Finnish NLP: 15 cases, Potentiaali mood, 60+ word types | Python, Voikko |
-| [**Observability Platform**](https://github.com/Aliipou/observability-platform) | Distributed tracing, metrics aggregation, real-time alerting | Go, OpenTelemetry, Prometheus |
-| [**Streaming Data Pipeline**](https://github.com/Aliipou/streaming-data-pipeline) | Real-time pipeline with anomaly detection and Kafka integration | Go, Kafka, WebSocket |
-| [**Distributed Job Scheduler**](https://github.com/Aliipou/distributedJobscheduler) | Redis-backed queue, worker pools, fault-tolerant execution | Go, Redis, gRPC |
-| [**python-api-toolkit**](https://github.com/Aliipou/python-api-toolkit) | Production-grade FastAPI toolkit: auth, caching, rate limiting, observability | Python, FastAPI |
+| [**CloudCostGuard**](https://github.com/Aliipou/cloudcostguard) | Scans AWS and Azure for idle VMs, unattached disks, oversized instances — reports exact dollar savings | Go, Prometheus, Docker |
+| [**Streaming Data Pipeline**](https://github.com/Aliipou/streaming-data-pipeline) | Real-time pipeline with layered anomaly detection (Welford + EWMA) and Kafka integration | Go, Kafka, WebSocket, PostgreSQL |
+| [**Distributed Job Scheduler**](https://github.com/Aliipou/distributedJobscheduler) | Redis-backed queue, worker pools, atomic distributed locking, fault-tolerant execution | Go, Redis, PostgreSQL |
+| [**PipelineGuard**](https://github.com/Aliipou/PipelineGuard) | CI/CD pipeline security: drift detection, silent failure alerts, clean architecture | Python, FastAPI, PostgreSQL |
+| [**Maze Solution App**](https://github.com/Aliipou/maze-solution-app) | IoT maze game: ESP32 hardware with Hall sensors + BLE, Go REST API, React dashboard | Go, ESP32, React, BLE |
+| [**Finnish NLP 2.0**](https://github.com/Aliipou/Finnish-nlp-2.0) | Production-grade Finnish NLP: 15 cases, Potentiaali mood, 60+ word types | Python, Voikko, FastAPI |
 
 ---
 
