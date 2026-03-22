@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Ali%20Pourrahim&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Backend%20%26%20Cloud%20Engineer%20%F0%9F%87%AB%F0%9F%87%AE&amp;descAlignY=55&amp;descSize=20" />
+# Ali Pourrahim
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Backend+%26+Cloud+Developer+%F0%9F%9A%80;Python+%7C+Go+%7C+Azure+%7C+FastAPI;Building+AI-Powered+Systems+%F0%9F%A4%96;Real-Time+Data+Pipelines+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+%26+Cloud+Engineer;Python+%7C+Go+%7C+Azure;Building+Production+Systems;Real-Time+Data+Pipelines)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Aliipou&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="profile views" />
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Aliipou?label=Followers&amp;style=social)](https://github.com/Aliipou)
+![Profile Views](https://komarev.com/ghpvc/?username=Aliipou&label=Profile%20Views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/Aliipou?label=Followers&style=social)](https://github.com/Aliipou)
 
 </div>
 
@@ -133,7 +132,7 @@ class AliPourrahim:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" />
+---
 
 *"Code that ships is better than code that is perfect."*
 
