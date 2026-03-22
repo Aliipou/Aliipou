@@ -1,13 +1,13 @@
-<div align="center">
+<h1 align="center">Ali Pourrahim</h1>
 
-# Ali Pourrahim
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+%26+Cloud+Engineer;Python+%7C+Go+%7C+Azure;Building+Production+Systems;Real-Time+Data+Pipelines" alt="Typing SVG" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+%26+Cloud+Engineer;Python+%7C+Go+%7C+Azure;Building+Production+Systems;Real-Time+Data+Pipelines)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aliipou&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Aliipou?label=Followers&style=social)](https://github.com/Aliipou)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aliipou&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Aliipou"><img src="https://img.shields.io/github/followers/Aliipou?label=Followers&style=social" alt="followers" /></a>
+</p>
 
 ---
 
@@ -23,13 +23,13 @@ class AliPourrahim:
     languages  = ["Python", "Go", "SQL", "Bash"]
     cloud      = ["Azure", "Docker", "Kubernetes", "Terraform"]
     databases  = ["PostgreSQL", "Redis", "MongoDB"]
-    messaging  = ["Kafka", "Azure Service Bus", "gRPC"]
+    messaging  = ["Kafka", "Azure Service Bus"]
     ai_tools   = ["OpenAI", "LangChain", "Transformers", "Voikko"]
 
     current_focus = [
-        "Agentic AI systems",
-        "Cloud-native observability",
+        "Cloud cost optimization",
         "Distributed job schedulers",
+        "Real-time data pipelines",
         "Finnish NLP tooling",
     ]
 
@@ -41,41 +41,34 @@ class AliPourrahim:
 
 ## Tech Arsenal
 
-<div align="center">
+<p align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 
-### Cloud and DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&amp;logo=terraform&amp;logoColor=white)
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
 
-### Frameworks and APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&amp;logo=google&amp;logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&amp;logo=opentelemetry&amp;logoColor=white)
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
 
-### Databases and Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 
-</div>
+</p>
 
 ---
 
 ## GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-trophies.vercel.app/?username=Aliipou&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7)](https://github.com/Aliipou)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Aliipou"><img src="https://github-trophies.vercel.app/?username=Aliipou&theme=tokyonight&no-frame=true&row=1&column=7" /></a>
+</p>
 
 ---
 
@@ -94,46 +87,32 @@ class AliPourrahim:
 
 ## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aliipou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliipou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aliipou&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliipou&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aliipou&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/Aliipou)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Aliipou"><img src="https://streak-stats.demolab.com?user=Aliipou&theme=tokyonight&hide_border=true" /></a>
+</p>
 
 ---
 
 ## Contribution Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aliipou&amp;theme=tokyo-night&amp;hide_border=true)](https://github.com/Aliipou)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Aliipou"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aliipou&theme=tokyo-night&hide_border=true" /></a>
+</p>
 
 ---
 
 ## Connect
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://portfolio-pi-coral-38.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Aliipou)
-
-</div>
-
----
-
-<div align="center">
+<p align="center">
+  <a href="https://portfolio-pi-coral-38.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Aliipou"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 *"Code that ships is better than code that is perfect."*
-
-</div>
