@@ -16,7 +16,7 @@
 ```python
 class AliPourrahim:
     name       = "Ali Pourrahim"
-    location   = "Finland 🔜 France"
+    location   = "Finland "
     role       = "Backend and Cloud Engineer"
     hireable   = True
 
