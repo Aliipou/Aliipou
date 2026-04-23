@@ -21,17 +21,18 @@ class AliPourrahim:
     hireable   = True
 
     languages  = ["Python", "Go", "TypeScript", "SQL", "Bash"]
-    backend    = ["FastAPI", "Go stdlib", "SQLAlchemy", "Alembic", "asyncpg"]
+    backend    = ["FastAPI", "Go stdlib", "SQLAlchemy", "Alembic", "asyncpg", "gRPC"]
     cloud      = ["Azure", "Docker", "Kubernetes", "Terraform", "Render", "Railway"]
     databases  = ["PostgreSQL", "Redis", "MongoDB"]
-    ai_ml      = ["sentence-transformers", "LangChain", "OpenAI", "Hugging Face", "OSV.dev"]
+    ai_ml      = ["sentence-transformers", "LangChain", "OpenAI", "Hugging Face", "TinyML"]
     messaging  = ["Kafka", "Azure Service Bus", "WebSocket"]
+    observability = ["Prometheus", "OpenTelemetry", "Sentry", "Grafana"]
 
     current_focus = [
-        "AI-powered developer tooling",
+        "AI-powered developer tooling & security",
         "Semantic search & document intelligence",
-        "Security tooling (CVE tracking, supply chain)",
-        "Real-time data pipelines & cloud cost optimization",
+        "Cloud cost optimization & observability",
+        "Quantitative finance & real-time data pipelines",
     ]
 
     def say_hi(self):
@@ -64,6 +65,7 @@ class AliPourrahim:
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 
 </p>
 
@@ -79,17 +81,52 @@ class AliPourrahim:
 
 ## Featured Projects
 
+### 🤖 AI & Machine Learning
+
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**dep-timemachine**](https://github.com/Aliipou/dep-timemachine) | Travel back through git history — find exactly when a CVE entered your project | Python, OSV.dev, GitPython |
-| [**legalens**](https://github.com/Aliipou/legalens) | Semantic diff engine for legal documents — clause-level meaning shifts, risk scoring | Python, FastAPI, sentence-transformers |
-| [**sec-flow**](https://github.com/Aliipou/sec-flow) | SEC EDGAR insider transaction monitor with urgency scoring | Python, FastAPI, SEC EDGAR API |
-| [**git-ownership**](https://github.com/Aliipou/git-ownership) | Bus factor analysis for codebases — who owns what, and what happens if they leave | Python, Click, GitPython |
-| [**CloudCostGuard**](https://github.com/Aliipou/cloudcostguard) | Scans AWS and Azure for idle VMs, unattached disks — reports exact dollar savings | Go, Prometheus, Docker |
-| [**Streaming Data Pipeline**](https://github.com/Aliipou/streaming-data-pipeline) | Real-time pipeline with layered anomaly detection (Welford + EWMA) and Kafka | Go, Kafka, WebSocket, PostgreSQL |
-| [**Distributed Job Scheduler**](https://github.com/Aliipou/distributedJobscheduler) | Redis-backed queue, atomic distributed locking, fault-tolerant execution | Go, Redis, PostgreSQL |
-| [**PipelineGuard**](https://github.com/Aliipou/PipelineGuard) | CI/CD security: drift detection, silent failure alerts, clean architecture | Python, FastAPI, PostgreSQL |
-| [**Finnish NLP 2.0**](https://github.com/Aliipou/Finnish-nlp-2.0) | Production-grade Finnish morphological NLP: 15 cases, 60+ word types | Python, Voikko, FastAPI |
+| [**legalens**](https://github.com/Aliipou/legalens) | Semantic diff engine for legal documents — clause-level meaning shifts and risk scoring | Python, FastAPI, sentence-transformers |
+| [**culture-identifier**](https://github.com/Aliipou/culture-identifier) | NLP personality analyzer matching writing style to iconic thinkers via semantic embeddings | Python, FastAPI, Transformers |
+| [**codebase_intelligence**](https://github.com/Aliipou/codebase_intelligence) | AI-powered codebase semantic search, dependency analysis, and automated documentation | Python, LLM, FastAPI |
+| [**AgenticAIPoweredLinuxSystemManagement**](https://github.com/Aliipou/AgenticAIPoweredLinuxSystemManagement) | 6-layer agentic AI pipeline: NLP intent parsing, risk policy gating, safe execution, audit log | Python, LLM, SQLite |
+| [**HAIIP**](https://github.com/Aliipou/HAIIP) | EU AI Act compliant industrial AI platform for Nordic SMEs — production-grade ML for manufacturing | Python, Jupyter, FastAPI |
+| [**bitcoin-mcp**](https://github.com/Aliipou/bitcoin-mcp) | 49-tool Bitcoin MCP server for AI agents — fees, mempool, blocks, mining, price. Zero config | Python, MCP, FastAPI |
+
+### ☁️ Cloud & Infrastructure
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**cloud-calibration**](https://github.com/Aliipou/cloud-calibration) | Cloud-native calibration measurement platform with Azure Service Bus and REST API | Go, Azure, PostgreSQL |
+| [**cloudcostguard**](https://github.com/Aliipou/cloudcostguard) | Scans AWS and Azure for idle VMs, unattached disks — reports exact dollar savings | Go, Prometheus, Docker |
+| [**multi-tenancy-kubernet**](https://github.com/Aliipou/multi-tenancy-kubernet) | Multi-tenant SaaS on Kubernetes with namespace isolation, Helm automation, and RBAC | Shell, Kubernetes, Helm |
+| [**observability-platform**](https://github.com/Aliipou/observability-platform) | Cloud-native observability: distributed tracing, metrics aggregation, real-time alerting | Go, OpenTelemetry, Prometheus |
+| [**distributedJobscheduler**](https://github.com/Aliipou/distributedJobscheduler) | Redis-backed distributed job scheduler with atomic locking and fault-tolerant execution | Go, Redis, gRPC |
+
+### 📊 Data, Finance & Pipelines
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**backtest-audit**](https://github.com/Aliipou/backtest-audit) | Statistical overfitting audit for trading backtests — Deflated Sharpe, Monte Carlo permutation | Python, scipy, pandas |
+| [**mm-live**](https://github.com/Aliipou/mm-live) | Event-driven market making: Binance WebSocket, Kalman fair value, Avellaneda-Stoikov quoting | Python, asyncio, Binance WS |
+| [**Fingrid-dashboard**](https://github.com/Aliipou/Fingrid-dashboard) | Real-time Finnish electricity market monitoring powered by Fingrid Open Data API | Python, FastAPI, PostgreSQL |
+| [**streaming-data-pipeline**](https://github.com/Aliipou/streaming-data-pipeline) | Real-time pipeline with layered anomaly detection (Welford + EWMA) and Kafka integration | Go, Kafka, WebSocket |
+| [**logforge**](https://github.com/Aliipou/logforge) | Production-grade log analytics: Kafka ingestion, PostgreSQL storage, real-time alerting | Python, FastAPI, Kafka |
+
+### 🔐 Security & Developer Tools
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**dep-timemachine**](https://github.com/Aliipou/dep-timemachine) | Travel back through git history to find exactly when a CVE entered your project | Python, OSV.dev, GitPython |
+| [**git-ownership**](https://github.com/Aliipou/git-ownership) | Bus factor analysis for codebases — who owns what, line-level blame across all authors | Python, Click, GitPython |
+| [**sec-flow**](https://github.com/Aliipou/sec-flow) | SEC EDGAR insider transaction monitor with urgency scoring — real-time Form 4 alerts | Python, FastAPI, SEC EDGAR |
+| [**PipelineGuard**](https://github.com/Aliipou/PipelineGuard) | CI/CD security: automated quality gates, vulnerability scanning, deployment guardrails | Python, FastAPI, PostgreSQL |
+| [**Student-Retention-Prediction**](https://github.com/Aliipou/Student-Retention-Prediction) | Production ML for dropout risk prediction — 137 tests, 100% coverage | Python, scikit-learn, FastAPI |
+
+### 🌐 NLP & Language
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Finnish-nlp-2.0**](https://github.com/Aliipou/Finnish-nlp-2.0) | World-class Finnish NLP: 30+ endpoints, 99 tests, 100% coverage — all 15 grammatical cases | Python, Voikko, FastAPI |
 
 ---
 
