@@ -116,9 +116,6 @@ class AliPourrahim:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**dep-timemachine**](https://github.com/Aliipou/dep-timemachine) | Travel back through git history to find exactly when a CVE entered your project | Python, OSV.dev, GitPython |
-| [**git-ownership**](https://github.com/Aliipou/git-ownership) | Bus factor analysis for codebases — who owns what, line-level blame across all authors | Python, Click, GitPython |
-| [**sec-flow**](https://github.com/Aliipou/sec-flow) | SEC EDGAR insider transaction monitor with urgency scoring — real-time Form 4 alerts | Python, FastAPI, SEC EDGAR |
 | [**PipelineGuard**](https://github.com/Aliipou/PipelineGuard) | CI/CD security: automated quality gates, vulnerability scanning, deployment guardrails | Python, FastAPI, PostgreSQL |
 | [**Student-Retention-Prediction**](https://github.com/Aliipou/Student-Retention-Prediction) | Production ML for dropout risk prediction — 137 tests, 100% coverage | Python, scikit-learn, FastAPI |
 
