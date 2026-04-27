@@ -1,7 +1,7 @@
 <h1 align="center">Ali Pourrahim</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=ML+Researcher+%26+Systems+Engineer;Conformal+Prediction+%7C+Production+Pipelines+%7C+Quant+Finance;Python+%7C+Go+%7C+Azure+%7C+Finland+%F0%9F%87%AB%F0%9F%87%AE;Writes+the+theory.+Ships+the+code." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+%E2%80%94+Backend+%26+Cloud+%26+AI;Python+%7C+Go+%7C+Azure+%7C+Finland+%F0%9F%87%AB%F0%9F%87%AE;Production+systems+that+actually+work.;Sometimes+proves+theorems+about+them+too." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -19,25 +19,19 @@ class AliPourrahim:
     location   = "Finland 🇫🇮"
     hireable   = True
 
-    # Two modes, one person
-    researcher = ["Conformal prediction theory", "Distribution-free guarantees",
-                  "Statistical ML", "Quantitative finance"]
-    engineer   = ["Production pipelines", "Cloud infra", "Distributed systems",
-                  "Real-time data", "LLMs & semantic search"]
-
     languages  = ["Python", "Go", "TypeScript", "SQL", "Bash"]
     backend    = ["FastAPI", "Go stdlib", "SQLAlchemy", "asyncpg", "gRPC"]
     cloud      = ["Azure", "Docker", "Kubernetes", "Terraform"]
     databases  = ["PostgreSQL", "Redis", "MongoDB"]
-    ai_ml      = ["conformal prediction", "sentence-transformers", "LangChain",
-                  "OpenAI", "Hugging Face", "scikit-learn"]
+    ai_ml      = ["LLMs", "sentence-transformers", "LangChain", "conformal prediction",
+                  "OpenAI", "scikit-learn", "Hugging Face"]
     observability = ["Prometheus", "OpenTelemetry", "Grafana", "Sentry"]
+    messaging  = ["Kafka", "Azure Service Bus", "WebSocket"]
 
-    current    = "Cascade Conformal Inference — provably valid prediction sets " \
-                 "for multi-stage ML pipelines (NeurIPS-format paper + OSS library)"
+    currently  = "Building AI-powered developer tooling and production ML systems"
 
-    def philosophy(self):
-        print("Rigour first. Ship second. Never sacrifice one for the other.")
+    def say_hi(self):
+        print("Building things that actually work in production.")
 ```
 
 ---
@@ -76,21 +70,13 @@ class AliPourrahim:
 
 ## Featured Projects
 
-### 📐 ML Research
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**cascade-conformal**](https://github.com/Aliipou/cascade-conformal) | **Provably valid prediction sets for K-stage ML pipelines.** Five theorems: finite-sample coverage bound, Neyman budget allocation, Minkowski-sum minimality, quantitative impossibility of point-chaining, separation result. NeurIPS-format paper + OSS library. | Python, NumPy, SciPy |
-| [**conformal-risk**](https://github.com/Aliipou/conformal-risk) | Conformal risk control for general loss functions in production ML systems | Python, scikit-learn |
-| [**backtest-audit**](https://github.com/Aliipou/backtest-audit) | Statistical overfitting audit for trading backtests — Deflated Sharpe Ratio, Monte Carlo permutation tests | Python, scipy, pandas |
-
 ### 🤖 AI & Intelligent Systems
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | [**bitcoin-mcp**](https://github.com/Aliipou/bitcoin-mcp) | 49-tool Bitcoin MCP server for AI agents — fees, mempool, blocks, mining, price. Zero config | Python, MCP, FastAPI |
 | [**AgenticAIPoweredLinuxSystemManagement**](https://github.com/Aliipou/AgenticAIPoweredLinuxSystemManagement) | 6-layer agentic AI pipeline: NLP intent parsing, risk policy gating, safe execution, audit log | Python, LLM, SQLite |
-| [**codebase_intelligence**](https://github.com/Aliipou/codebase_intelligence) | AI-powered semantic codebase search, dependency analysis, and automated documentation | Python, LLM, FastAPI |
+| [**codebase_intelligence**](https://github.com/Aliipou/codebase_intelligence) | AI-powered semantic codebase search, dependency analysis, automated documentation | Python, LLM, FastAPI |
 | [**legalens**](https://github.com/Aliipou/legalens) | Semantic diff engine for legal documents — clause-level meaning shifts and risk scoring | Python, FastAPI, sentence-transformers |
 | [**culture-identifier**](https://github.com/Aliipou/culture-identifier) | NLP personality analyzer matching writing style to iconic thinkers via semantic embeddings | Python, FastAPI, Transformers |
 | [**HAIIP**](https://github.com/Aliipou/HAIIP) | EU AI Act compliant industrial AI platform for Nordic SMEs | Python, Jupyter, FastAPI |
@@ -110,8 +96,9 @@ class AliPourrahim:
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | [**mm-live**](https://github.com/Aliipou/mm-live) | Event-driven market making: Binance WebSocket, Kalman fair value, Avellaneda-Stoikov quoting | Python, asyncio, Binance WS |
+| [**backtest-audit**](https://github.com/Aliipou/backtest-audit) | Statistical overfitting audit for trading backtests — Deflated Sharpe Ratio, Monte Carlo permutation | Python, scipy, pandas |
 | [**Fingrid-dashboard**](https://github.com/Aliipou/Fingrid-dashboard) | Real-time Finnish electricity market monitoring via Fingrid Open Data API | Python, FastAPI, PostgreSQL |
-| [**streaming-data-pipeline**](https://github.com/Aliipou/streaming-data-pipeline) | Real-time pipeline with layered anomaly detection (Welford + EWMA) and Kafka integration | Go, Kafka, WebSocket |
+| [**streaming-data-pipeline**](https://github.com/Aliipou/streaming-data-pipeline) | Real-time pipeline with layered anomaly detection (Welford + EWMA) and Kafka | Go, Kafka, WebSocket |
 | [**logforge**](https://github.com/Aliipou/logforge) | Production log analytics: Kafka ingestion, PostgreSQL storage, real-time alerting | Python, FastAPI, Kafka |
 
 ### 🌐 NLP & Language
@@ -126,6 +113,13 @@ class AliPourrahim:
 |---------|-------------|-------|
 | [**PipelineGuard**](https://github.com/Aliipou/PipelineGuard) | CI/CD security: automated quality gates, vulnerability scanning, deployment guardrails | Python, FastAPI, PostgreSQL |
 | [**Student-Retention-Prediction**](https://github.com/Aliipou/Student-Retention-Prediction) | Production ML for dropout risk prediction — 137 tests, 100% coverage | Python, scikit-learn, FastAPI |
+
+### 📐 Research (OSS)
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**cascade-conformal**](https://github.com/Aliipou/cascade-conformal) | Provably valid prediction sets for K-stage ML pipelines. Five theorems, production library, O(log B) streaming updates. | Python, NumPy, SciPy |
+| [**conformal-risk**](https://github.com/Aliipou/conformal-risk) | Conformal risk control for general loss functions in production ML | Python, scikit-learn |
 
 ---
 
@@ -159,4 +153,4 @@ class AliPourrahim:
 
 ---
 
-*"Rigour first. Ship second. Never sacrifice one for the other."*
+*"The best infrastructure is the one no one notices — because it always works."*
