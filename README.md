@@ -8,6 +8,12 @@ Backend and cloud infrastructure engineer. I build production systems with obser
 
 ## Featured Projects
 
+### Live Products
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**game-diploma-project**](https://github.com/AIMlearningProject/game-diploma-project) | Adaptive reading gamification platform for schools — book logs drive board game progression, teacher monitoring dashboard, 172 tests · 2000+ student users (EU-funded) | Node.js, Fastify, React, Phaser.js, PostgreSQL, Redis |
+
 ### AI & Security Infrastructure
 
 | Project | What it does | Stack |
