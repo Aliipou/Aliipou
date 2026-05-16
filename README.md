@@ -22,7 +22,7 @@ I design and implement event-driven architectures, real-time data pipelines, and
 
 ### Production System
 
-**[AIMlearning Platform](https://github.com/AIMlearningProject/game-diploma-project)**  
+**[Lukupeli diploma](https://github.com/AIMlearningProject/game-diploma-project)**  
 EU-funded educational platform used by 2000+ users  
 Production full-stack system with analytics, dashboards, and real users in production  
 `Node.js · Fastify · React · Phaser.js · PostgreSQL · Redis`
