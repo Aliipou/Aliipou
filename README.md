@@ -1,4 +1,4 @@
-# Ali Pourrahim — Backend & Cloud Engineer
+# Ali Pourrahim — software & AI Engineer
 
 **Finland** | Python · Go · Azure · PostgreSQL · Kubernetes
 
