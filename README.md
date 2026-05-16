@@ -22,10 +22,10 @@ I design and implement event-driven architectures, real-time data pipelines, and
 
 ### Production System
 
-**AIMlearning Platform**  
+**[AIMlearning Platform](https://github.com/AIMlearningProject/game-diploma-project)**  
 EU-funded educational platform used by 2000+ users  
-Full-stack system with analytics, dashboards, and production deployment  
-`Node.js · React · PostgreSQL · Redis`
+Production full-stack system with analytics, dashboards, and real users in production  
+`Node.js · Fastify · React · Phaser.js · PostgreSQL · Redis`
 
 ---
 
@@ -91,7 +91,7 @@ Distribution-free financial risk estimation with statistical guarantees
 
 Polyglot engineer (6+ languages) with strong academic performance and hands-on production experience in backend and distributed systems.
 
-Focus: backend engineering, scalable systems, and real-time data infrastructure.
+Built systems ranging from real-time data pipelines and observability platforms to production educational software with real users.
 
 ---
 
