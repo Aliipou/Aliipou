@@ -1,10 +1,29 @@
 # Ali Pourrahim — Backend & Systems Engineer
 
-**Finland**  
+**Finland**
 Python · Go · Distributed Systems · Cloud · Data Engineering
 
-Backend engineer focused on building reliable, scalable, production-grade systems.  
-I design and implement event-driven architectures, real-time data pipelines, and cloud-native services with strong emphasis on observability, failure handling, and performance under load.
+Backend engineer building reliable, scalable, production-grade systems.
+Event-driven architectures, real-time data pipelines, and cloud-native services
+with strong emphasis on observability, failure handling, and performance under load.
+
+---
+
+## Live Projects
+
+| Project | Live Demo | Backend API | Stack |
+|---|---|---|---|
+| **[culture-identifier](https://github.com/Aliipou/culture-identifier)** | [culture-identifier.vercel.app](https://culture-identifier.vercel.app) | [onrender.com](https://culture-identifier-backend.onrender.com/api/health) | FastAPI · sentence-transformers · FAISS · Vercel |
+| **[Fingrid-dashboard](https://github.com/Aliipou/Fingrid-dashboard)** | [fingrid-dashboard.vercel.app](https://fingrid-dashboard.vercel.app) | [onrender.com](https://fingrid-backend.onrender.com/health) | FastAPI · Pandas · React · Vercel |
+| **[ride-startup](https://github.com/Aliipou/ride-startup)** | [ride-startup.vercel.app](https://ride-startup.vercel.app) | [onrender.com](https://ride-startup-backend.onrender.com/health) | FastAPI · SQLAlchemy · Next.js · Vercel |
+| **[soite-feedback](https://github.com/Aliipou/soite-feedback)** | [soite-feedback.vercel.app](https://soite-feedback.vercel.app) | [onrender.com](https://soite-feedback-backend.onrender.com/health) | FastAPI · async SQLAlchemy · Vite · Vercel |
+| **[edge-wise](https://github.com/Aliipou/edge-wise)** | [edge-wise.vercel.app](https://edge-wise.vercel.app) | — | React · D3 · Three.js · Vite · Vercel |
+| **[cloudcostguard](https://github.com/Aliipou/cloudcostguard)** | [cloudcostguard-demo.vercel.app](https://cloudcostguard-demo.vercel.app) | [onrender.com](https://cloudcostguard-backend.onrender.com/health) | Go · Cobra · Vercel |
+| **[observability-platform](https://github.com/Aliipou/observability-platform)** | [observability-platform-demo.vercel.app](https://observability-platform-demo.vercel.app) | [onrender.com](https://observability-backend-w2p4.onrender.com/health) | Go · Gin · in-memory · Vercel |
+| **[distributedJobscheduler](https://github.com/Aliipou/distributedJobscheduler)** | [distributedjobscheduler-demo.vercel.app](https://distributedjobscheduler-demo.vercel.app) | — | Go · Redis · Gin |
+| **[azure-portfolio](https://github.com/Aliipou/azure-portfolio)** | [azure-portfolio-demo.vercel.app](https://azure-portfolio-demo.vercel.app) | — | Go · Gin · Vercel |
+| **[finnish-nlp-toolkit-api](https://github.com/Aliipou/finnish-nlp-toolkit-api)** | — | [onrender.com](https://finnish-nlp-toolkit-api.onrender.com/health) | FastAPI · spaCy · Voikko · Docker |
+| **[maze-solution-app](https://github.com/Aliipou/maze-solution-app)** | [maze-solution-app.vercel.app](https://maze-solution-app.vercel.app) | — | Go · React · Vercel |
 
 ---
 
@@ -22,76 +41,60 @@ I design and implement event-driven architectures, real-time data pipelines, and
 
 ### Production System
 
-**[Lukupeli diploma](https://github.com/AIMlearningProject/game-diploma-project)**  
-EU-funded educational platform used by 2000+ users  
-Production full-stack system with analytics, dashboards, and real users in production  
+**[Lukupeli diploma](https://github.com/AIMlearningProject/game-diploma-project)**
+EU-funded educational platform used by 2000+ users
+Production full-stack system with analytics, dashboards, and real users in production
 `Node.js · Fastify · React · Phaser.js · PostgreSQL · Redis`
 
 ---
 
 ### Backend / Distributed Systems
 
-**[logforge](https://github.com/Aliipou/logforge)**  
-Kafka-based log pipeline with ingestion, processing, alerting, and query service  
+**[logforge](https://github.com/Aliipou/logforge)**
+Kafka-based log pipeline with ingestion, processing, alerting, and query service
 `Python · FastAPI · Kafka · PostgreSQL · Redis`
 
-**[mm-live](https://github.com/Aliipou/mm-live)**  
-Real-time market making system with event-driven architecture and risk controls  
+**[mm-live](https://github.com/Aliipou/mm-live)**
+Real-time market making system with event-driven architecture and risk controls
 `Python · asyncio`
 
-**[streaming-data-pipeline](https://github.com/Aliipou/streaming-data-pipeline)**  
-Real-time stream processing system with anomaly detection and WebSocket output  
+**[streaming-data-pipeline](https://github.com/Aliipou/streaming-data-pipeline)**
+Real-time stream processing system with anomaly detection and WebSocket output
 `Go · Kafka`
 
 ---
 
 ### Cloud & Infrastructure
 
-**[PipelineGuard](https://github.com/Aliipou/PipelineGuard)**  
-Multi-tenant monitoring and observability system for data pipelines  
+**[PipelineGuard](https://github.com/Aliipou/PipelineGuard)**
+Multi-tenant monitoring and observability system for data pipelines
 `Python · FastAPI · PostgreSQL`
 
-**[distributedJobscheduler](https://github.com/Aliipou/distributedJobscheduler)**  
-Fault-tolerant distributed job scheduler with Redis-based locking  
+**[distributedJobscheduler](https://github.com/Aliipou/distributedJobscheduler)**
+Fault-tolerant distributed job scheduler with Redis-based locking
 `Go · gRPC · Redis`
 
 ---
 
 ### Machine Learning Systems
 
-**[Student Retention Prediction](https://github.com/Aliipou/Student-Retention-Prediction)**  
-Dropout risk prediction system for early intervention in education  
+**[Student Retention Prediction](https://github.com/Aliipou/Student-Retention-Prediction)**
+Dropout risk prediction system for early intervention in education
 `scikit-learn · FastAPI`
 
-**[Finnish NLP 2.0](https://github.com/Aliipou/Finnish-nlp-2.0)**  
-High-accuracy Finnish morphological analysis system  
+**[Finnish NLP 2.0](https://github.com/Aliipou/Finnish-nlp-2.0)**
+High-accuracy Finnish morphological analysis system
 `FastAPI · Voikko`
-
----
-
-### Research
-
-**[conformal-risk](https://github.com/Aliipou/conformal-risk)**  
-Distribution-free financial risk estimation with statistical guarantees  
-`Python · NumPy`
 
 ---
 
 ## Skills
 
-**Backend:** Python, Go, FastAPI  
-**Systems:** Kafka, Redis, PostgreSQL  
-**Cloud:** Azure, Docker, Kubernetes  
-**ML:** scikit-learn, NLP, embeddings  
+**Backend:** Python, Go, FastAPI
+**Systems:** Kafka, Redis, PostgreSQL
+**Cloud:** Azure, Docker, Kubernetes
+**ML:** scikit-learn, NLP, embeddings
 **Observability:** Prometheus, OpenTelemetry
-
----
-
-## Profile
-
-Polyglot engineer (6+ languages) with strong academic performance and hands-on production experience in backend and distributed systems.
-
-Built systems ranging from real-time data pipelines and observability platforms to production educational software with real users.
 
 ---
 
