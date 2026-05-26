@@ -32,7 +32,7 @@ Features offline-first PWA architecture, anonymous-by-design GDPR model, JWT aut
 
 ---
 
-### [Lukupeli Diploma](https://github.com/AIMlearningProject/3D-logo-branding-9493)
+### [Lukupeli Diploma](https://github.com/AIMlearningProject/game-diploma-project)
 EU-funded educational platform used by 2000+ real users in Finnish schools.
 
 Production full-stack system with analytics, dashboards, authentication, and gamified reading workflows.
