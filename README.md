@@ -23,7 +23,7 @@ Experienced in designing async APIs, distributed services, event-driven systems,
 
 ## Production Systems
 
-### soite-feedback
+### [soite-feedback](https://github.com/Aliipou/soite-feedback)
 Production-grade healthcare feedback kiosk system developed for Soite's home rehabilitation team in Finland.
 
 Features offline-first PWA architecture, anonymous-by-design GDPR model, JWT authentication, admin/dashboard systems, Redis-backed rate limiting, encrypted free-text storage, structured logging, and CI-tested deployment pipeline.
@@ -32,7 +32,7 @@ Features offline-first PWA architecture, anonymous-by-design GDPR model, JWT aut
 
 ---
 
-### Lukupeli Diploma
+### [Lukupeli Diploma](https://github.com/AIMlearningProject/3D-logo-branding-9493)
 EU-funded educational platform used by 2000+ real users in Finnish schools.
 
 Production full-stack system with analytics, dashboards, authentication, and gamified reading workflows.
@@ -43,21 +43,21 @@ Production full-stack system with analytics, dashboards, authentication, and gam
 
 ## Distributed & Backend Systems
 
-### logforge
+### [logforge](https://github.com/Aliipou/logforge)
 Kafka-based distributed log processing pipeline with ingestion, alerting, query services, and stream processing.
 
 **Tech:** Python · FastAPI · Kafka · PostgreSQL · Redis
 
 ---
 
-### distributedJobscheduler
+### [distributedJobscheduler](https://github.com/Aliipou/distributedJobscheduler)
 Fault-tolerant distributed job scheduler with Redis-based locking and gRPC worker coordination.
 
 **Tech:** Go · gRPC · Redis
 
 ---
 
-### streaming-data-pipeline
+### [streaming-data-pipeline](https://github.com/Aliipou/streaming-data-pipeline)
 Real-time event processing pipeline with anomaly detection and WebSocket streaming output.
 
 **Tech:** Go · Kafka
@@ -66,14 +66,14 @@ Real-time event processing pipeline with anomaly detection and WebSocket streami
 
 ## Cloud & Platform Engineering
 
-### cloud-calibration
+### [cloud-calibration](https://github.com/Aliipou/cloud-calibration)
 Cloud-native calibration platform using Azure infrastructure and asynchronous service communication.
 
 **Tech:** Go · Azure Service Bus · PostgreSQL
 
 ---
 
-### PipelineGuard
+### [PipelineGuard](https://github.com/Aliipou/PipelineGuard)
 Multi-tenant monitoring and observability platform for data pipelines and backend systems.
 
 **Tech:** Python · FastAPI · PostgreSQL
@@ -82,14 +82,14 @@ Multi-tenant monitoring and observability platform for data pipelines and backen
 
 ## Machine Learning Systems
 
-### Student Retention Prediction
+### [Student Retention Prediction](https://github.com/Aliipou/Student-Retention-Prediction)
 Production-oriented student dropout risk prediction system with extensive testing coverage.
 
 **Tech:** Python · scikit-learn · FastAPI
 
 ---
 
-### Finnish NLP Toolkit API
+### [Finnish NLP Toolkit API](https://github.com/Aliipou/finnish-nlp-toolkit-api)
 REST API for Finnish NLP tooling including morphological analysis and normalization.
 
 **Tech:** Python · FastAPI · Voikko
@@ -111,16 +111,16 @@ REST API for Finnish NLP tooling including morphological analysis and normalizat
 
 # Technologies
 
-### Languages
+## Languages
 Python · Go · TypeScript · SQL
 
-### Backend
+## Backend
 FastAPI · Flask · Node.js · gRPC
 
-### Infrastructure
+## Infrastructure
 Docker · Kubernetes · Azure · Redis · PostgreSQL
 
-### Systems & Observability
+## Systems & Observability
 Kafka · Prometheus · OpenTelemetry
 
 ---
