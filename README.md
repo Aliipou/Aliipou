@@ -1,85 +1,130 @@
 # Ali Pourrahim — Backend & Systems Engineer
 
-**Finland**
-Python · Go · Distributed Systems · Cloud · Data Engineering
+Finland · Python · Go · Cloud Infrastructure · Distributed Systems
 
-Backend engineer building reliable, scalable, production-grade systems.
-Event-driven architectures, real-time data pipelines, and cloud-native services
-with strong emphasis on observability, failure handling, and performance under load.
+Backend engineer focused on building reliable, production-grade systems with strong emphasis on scalability, operational awareness, observability, and failure handling.
+
+Experienced in designing async APIs, distributed services, event-driven systems, real-time processing pipelines, and cloud-native backend infrastructure.
 
 ---
 
-## What I Do
+## Core Focus
 
-- Backend systems (FastAPI, Go)
-- Distributed systems (Kafka, queues, streaming)
+- Backend engineering (Python, FastAPI, Go)
+- Distributed systems & async architectures
 - Cloud infrastructure (Docker, Kubernetes, Azure)
-- Data pipelines & real-time processing
-- Production ML integration (prediction, risk, NLP systems)
+- Observability & reliability engineering
+- Real-time data systems & streaming pipelines
+- Production system design
 
 ---
 
-## Selected Projects
+# Selected Projects
 
-### Production System
+## Production Systems
 
-**[Lukupeli diploma](https://github.com/AIMlearningProject/game-diploma-project)**
-EU-funded educational platform used by 2000+ users
-Production full-stack system with analytics, dashboards, and real users in production
-`Node.js · Fastify · React · Phaser.js · PostgreSQL · Redis`
+### soite-feedback
+Production-grade healthcare feedback kiosk system developed for Soite's home rehabilitation team in Finland.
 
----
+Features offline-first PWA architecture, anonymous-by-design GDPR model, JWT authentication, admin/dashboard systems, Redis-backed rate limiting, encrypted free-text storage, structured logging, and CI-tested deployment pipeline.
 
-### Backend / Distributed Systems
-
-**[logforge](https://github.com/Aliipou/logforge)**
-Kafka-based log pipeline with ingestion, processing, alerting, and query service
-`Python · FastAPI · Kafka · PostgreSQL · Redis`
-
-**[mm-live](https://github.com/Aliipou/mm-live)**
-Real-time market making system with event-driven architecture and risk controls
-`Python · asyncio`
-
-**[streaming-data-pipeline](https://github.com/Aliipou/streaming-data-pipeline)**
-Real-time stream processing system with anomaly detection and WebSocket output
-`Go · Kafka`
+**Tech:** Python · FastAPI · PostgreSQL · Redis · React · TypeScript · Docker
 
 ---
 
-### Cloud & Infrastructure
+### Lukupeli Diploma
+EU-funded educational platform used by 2000+ real users in Finnish schools.
 
-**[PipelineGuard](https://github.com/Aliipou/PipelineGuard)**
-Multi-tenant monitoring and observability system for data pipelines
-`Python · FastAPI · PostgreSQL`
+Production full-stack system with analytics, dashboards, authentication, and gamified reading workflows.
 
-**[distributedJobscheduler](https://github.com/Aliipou/distributedJobscheduler)**
-Fault-tolerant distributed job scheduler with Redis-based locking
-`Go · gRPC · Redis`
+**Tech:** Node.js · Fastify · React · Phaser.js · PostgreSQL · Redis
 
 ---
 
-### Machine Learning Systems
+## Distributed & Backend Systems
 
-**[Student Retention Prediction](https://github.com/Aliipou/Student-Retention-Prediction)**
-Dropout risk prediction system for early intervention in education
-`scikit-learn · FastAPI`
+### logforge
+Kafka-based distributed log processing pipeline with ingestion, alerting, query services, and stream processing.
 
-**[Finnish NLP 2.0](https://github.com/Aliipou/Finnish-nlp-2.0)**
-High-accuracy Finnish morphological analysis system
-`FastAPI · Voikko`
+**Tech:** Python · FastAPI · Kafka · PostgreSQL · Redis
 
 ---
 
-## Skills
+### distributedJobscheduler
+Fault-tolerant distributed job scheduler with Redis-based locking and gRPC worker coordination.
 
-**Backend:** Python, Go, FastAPI
-**Systems:** Kafka, Redis, PostgreSQL
-**Cloud:** Azure, Docker, Kubernetes
-**ML:** scikit-learn, NLP, embeddings
-**Observability:** Prometheus, OpenTelemetry
+**Tech:** Go · gRPC · Redis
 
 ---
 
-## Location
+### streaming-data-pipeline
+Real-time event processing pipeline with anomaly detection and WebSocket streaming output.
 
-Finland — open to Backend / Systems / Platform Engineer roles
+**Tech:** Go · Kafka
+
+---
+
+## Cloud & Platform Engineering
+
+### cloud-calibration
+Cloud-native calibration platform using Azure infrastructure and asynchronous service communication.
+
+**Tech:** Go · Azure Service Bus · PostgreSQL
+
+---
+
+### PipelineGuard
+Multi-tenant monitoring and observability platform for data pipelines and backend systems.
+
+**Tech:** Python · FastAPI · PostgreSQL
+
+---
+
+## Machine Learning Systems
+
+### Student Retention Prediction
+Production-oriented student dropout risk prediction system with extensive testing coverage.
+
+**Tech:** Python · scikit-learn · FastAPI
+
+---
+
+### Finnish NLP Toolkit API
+REST API for Finnish NLP tooling including morphological analysis and normalization.
+
+**Tech:** Python · FastAPI · Voikko
+
+---
+
+# Engineering Practices
+
+- CI/CD pipelines (GitHub Actions)
+- Dockerized production deployments
+- Async backend architectures
+- Structured logging & observability
+- Automated testing and coverage enforcement
+- API security and JWT/RBAC systems
+- PostgreSQL schema design & migrations
+- Documentation-driven development
+
+---
+
+# Technologies
+
+### Languages
+Python · Go · TypeScript · SQL
+
+### Backend
+FastAPI · Flask · Node.js · gRPC
+
+### Infrastructure
+Docker · Kubernetes · Azure · Redis · PostgreSQL
+
+### Systems & Observability
+Kafka · Prometheus · OpenTelemetry
+
+---
+
+# Location
+
+Finland — open to Backend, Platform, Cloud, and Systems Engineering roles
