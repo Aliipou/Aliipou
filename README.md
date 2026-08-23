@@ -25,6 +25,17 @@ Experienced in designing async APIs, distributed services, event-driven systems,
 
 # Selected Projects
 
+## Philosophy / AI morals
+
+### [freedom-theory](https://github.com/Aliipou/freedom-theory)
+Public home of *Theory of Freedom, Iran and Religion* (Mohammad Ali Jannat Khah Doust, CC BY 4.0) plus a sixteen-chapter edition for **philosophers of AI and morals**. Hard legitimacy floor (A1–A7) for machines that act — before authorization or preference.
+
+**Start:** [for-philosophers/](https://github.com/Aliipou/freedom-theory/tree/main/for-philosophers) · [JUSTIFICATION.md](https://github.com/Aliipou/freedom-theory/blob/main/JUSTIFICATION.md) · [Discussion](https://github.com/Aliipou/freedom-theory/discussions/1)
+
+**Live graph:** [ali-freedom-theory.vercel.app](https://ali-freedom-theory.vercel.app)
+
+---
+
 ## AI / autonomous systems
 
 ### [decision-os-min](https://github.com/Aliipou/decision-os-min)
