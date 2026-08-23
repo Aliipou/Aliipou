@@ -1,27 +1,42 @@
-# Ali Pourrahim — Backend & Systems Engineer
+# Ali Pourrahim — Software/AI/Product Engineer
 
 **Live (graph):** [https://ali-aliipou.vercel.app](https://ali-aliipou.vercel.app)
 
-Finland · Python · Go · Cloud Infrastructure · Distributed Systems
+Finland · Python · Go · Cloud Infrastructure · Distributed Systems · AI governance
 
-Backend engineer focused on building reliable, production-grade systems with strong emphasis on scalability, operational awareness, observability, and failure handling.
+Software, AI, and product engineer focused on building reliable, production-grade systems — and on the enforcement layer between autonomous software and real-world effects.
 
-Experienced in designing async APIs, distributed services, event-driven systems, real-time processing pipelines, and cloud-native backend infrastructure.
+Experienced in designing async APIs, distributed services, event-driven systems, real-time processing pipelines, cloud-native backend infrastructure, and agent-tool governance.
 
 ---
 
 ## Core Focus
 
+- Software / AI / product engineering
 - Backend engineering (Python, FastAPI, Go)
 - Distributed systems & async architectures
 - Cloud infrastructure (Docker, Kubernetes, Azure)
 - Observability & reliability engineering
 - Real-time data systems & streaming pipelines
 - Production system design
+- Execution governance for autonomous systems (signed decisions, PEP, audit)
 
 ---
 
 # Selected Projects
+
+## AI / autonomous systems
+
+### [decision-os-min](https://github.com/Aliipou/decision-os-min)
+Reference execution-governance runtime for autonomous systems that act: signed, action-bound decisions, one-time capability tokens, mandatory PEP mediation, and a tamper-evident audit log. Optional Hosted agent plane and Linux/Docker isolation.
+
+Built so an untrusted agent cannot cause an effect except through a right that human ownership/consent can veto. Not a general IAM language (Cedar/OPA remain better there) and not an AGI-safety proof — a small, auditable checkpoint for machine effects.
+
+**Live explainer:** [ali-decision-os-min.vercel.app](https://ali-decision-os-min.vercel.app)
+
+**Tech:** Python · Ed25519 · FastAPI · Docker
+
+---
 
 ## Production Systems
 
@@ -129,4 +144,4 @@ Kafka · Prometheus · OpenTelemetry
 
 # Location
 
-Finland — open to Backend, Platform, Cloud, and Systems Engineering roles
+Finland — open to Software, AI, Product, Backend, Platform, Cloud, and Systems Engineering roles
