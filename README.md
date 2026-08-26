@@ -1,6 +1,5 @@
 # Ali Pourrahim — Software/AI/Product Engineer
 
-**Live (graph):** [https://ali-aliipou.vercel.app](https://ali-aliipou.vercel.app)
 
 Finland · Python · Go · Cloud Infrastructure · Distributed Systems · AI governance
 
