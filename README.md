@@ -49,9 +49,8 @@ Features offline-first PWA architecture, anonymous-by-design GDPR model, JWT aut
 ---
 
 ### [Lukupeli Diploma](https://github.com/AIMlearningProject/game-diploma-project)
-EU-funded educational platform used by 2000+ real users in Finnish schools.
-
-Production full-stack system with analytics, dashboards, authentication, and gamified reading workflows.
+EU-funded educational platform used by real users in Finnish schools.
+this repo is the prototype of it.
 
 **Tech:** Node.js · Fastify · React · Phaser.js · PostgreSQL · Redis
 
